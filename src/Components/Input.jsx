@@ -1,6 +1,6 @@
 import React from 'react'
 
-
+//Creation of a component with an input field where vaules of the button display
 const Input = () => {
   return (
     <div>
